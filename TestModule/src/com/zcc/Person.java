@@ -7,4 +7,5 @@ public class Person {
     private String height;
 	private String name;
 	private String number;
+	private String weight;
 }
